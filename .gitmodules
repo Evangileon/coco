@@ -1,0 +1,3 @@
+[submodule "deps/libev"]
+	path = deps/libev
+	url = https://github.com/Evangileon/libev.git
